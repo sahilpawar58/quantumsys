@@ -246,29 +246,29 @@ function App() {
      <div className='flex mb-8'>
       <div className=' w-60 h-24 items-center justify-center hidden md:hidden sm:hidden lg:flex xl:flex 2xl:flex '>
       <div className='w-52 h-14 relative overflow-hidden'>
-      <img className="most_left_left right-52 object-contain relative" src={spotify}/>
-      <img className="most_left_top bottom-24 object-contain relative" src={samsung}/>
+      <img className="most_left_left right-52 object-contain relative" src="http://res.cloudinary.com/dubr8odt7/image/upload/v1719759015/quantumComputers/company/hygzgaqraksnrjl0mpjq.png"/>
+      <img className="most_left_top bottom-24 object-contain relative" src="http://res.cloudinary.com/dubr8odt7/image/upload/v1719758999/quantumComputers/company/zrngamdhepnxnoplpq4l.png"/>
       </div>
       </div>
 
       <div className=' w-60 h-24 items-center justify-center hidden sm:block md:flex lg:flex xl:flex 2xl:flex'>
       <div className='w-52 h-14 relative overflow-hidden'>
-      <img className="most_middle_left left-52 w-52 h-14 object-contain relative" src={levis}/>
-      <img className="most_middle_top top-12 w-52 h-14 object-contain relative" src={ibm}/>
+      <img className="most_middle_left left-52 w-52 h-14 object-contain relative" src="http://res.cloudinary.com/dubr8odt7/image/upload/v1719758968/quantumComputers/company/kxxfdscfk90bwejufhu9.png"/>
+      <img className="most_middle_top top-12 w-52 h-14 object-contain relative" src="http://res.cloudinary.com/dubr8odt7/image/upload/v1719758967/quantumComputers/company/mct8vthqqsinhh0imxw2.png"/>
       </div>
       </div>
 
       <div className='sm:w-60 xl:w-60 w-40 h-24 flex items-center justify-center  '>
       <div className='w-52 h-14 relative  overflow-hidden'>
-      <img className="most_middle_second_left bottom-16 w-32 sm:w-52 h-14 object-contain relative" src={cocacola}/>
-      <img className="most_middle_second_top right-52 w-52 h-16 object-contain relative" src={microsoft}/>
+      <img className="most_middle_second_left bottom-16 w-32 sm:w-52 h-14 object-contain relative" src="http://res.cloudinary.com/dubr8odt7/image/upload/v1719758968/quantumComputers/company/byl67xre5zgrlwfmasxv.jpg"/>
+      <img className="most_middle_second_top right-52 w-52 h-16 object-contain relative" src="http://res.cloudinary.com/dubr8odt7/image/upload/v1719758983/quantumComputers/company/ujej3ghqxxutzjdge3bb.png"/>
       </div>
       </div>
 
       <div className='sm:w-60 w-40 h-24 flex items-center justify-center '>
       <div className='sm:w-52 w-32 h-14 relative  overflow-hidden'>
-      <img className="most_middle_last_left top-16 w-32 sm:w-52 h-14 object-contain relative" src={google}/>
-      <img className="most_middle_last_top left-52  w-32 h-8 object-contain relative" src={amazon}/>
+      <img className="most_middle_last_left top-16 w-32 sm:w-52 h-14 object-contain relative" src="http://res.cloudinary.com/dubr8odt7/image/upload/v1719758968/quantumComputers/company/ennabtwib2eb9y2xlivb.png"/>
+      <img className="most_middle_last_top left-52  w-32 h-8 object-contain relative" src="http://res.cloudinary.com/dubr8odt7/image/upload/v1719758968/quantumComputers/company/dca0nkbzipvx35q2hf2g.png"/>
       </div>
       </div>
       

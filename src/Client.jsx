@@ -19,11 +19,11 @@ return(<>
             </div>
             <div className="hidden h-full w-1/4  relative sm:flex flex-col items-center">
                 <div className=" flex flex-col items-center ">
-                <img className="xl:w-[12rem] lg:w-[12rem] md:w-[9rem] rounded-lg mt-2" src={shawn}></img>
+                <img className="xl:w-[12rem] lg:w-[12rem] md:w-[9rem] rounded-lg mt-2" src="http://res.cloudinary.com/dubr8odt7/image/upload/v1719759573/quantumComputers/service/uw4wabanwyhphtg2l1ii.jpg"></img>
                 <p className="font-semibold text-lg">SShawn Massie</p>
                 <p className="text-base">Chief growth officer</p>
                 </div>
-                <img className="w-[8rem] rounded-lg absolute bottom-0 " src={arizona}></img>
+                <img className="w-[8rem] rounded-lg absolute bottom-0 " src="http://res.cloudinary.com/dubr8odt7/image/upload/v1719759571/quantumComputers/service/dntgqzrtjwlbdeqwhcwd.png"></img>
             </div>
             <div className="flex m-4 justify-end sm:hidden font-semibold"><p>- Shawn Massie</p></div>
         </div>

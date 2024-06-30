@@ -173,9 +173,9 @@ export default function Hero(){
 
  return(
     <>
-    <div className='h-[calc(100%-10rem)] w-[calc(100%-4rem)] md:h-full md:w-full  sm:ml-16 ml-2 flex mb-12 md:mb-48 lg:mb-48 xl:mb-48'>
-    {/* sm:bg-red-600 md:bg-green-400 lg:bg-orange-400 xl:bg-slate-500 */}
-     <div className=' hero_left h-1/2  xl:w-2/5  w-full sm:w-3/5 sm:justify-center  flex  flex-col justify-between sm:mt-32 mt-16 gap-5 '>
+    <div className='h-[calc(100%-10rem)] w-[calc(100%-4rem)] md:h-full sm:h-96 md:w-full  sm:ml-16 ml-2 flex mb-12 md:mb-48 lg:mb-48 xl:mb-48'>
+    {/*  */}
+     <div className=' hero_left h-1/2  xl:w-2/5  w-full sm:w-3/5 sm:justify-center  flex  flex-col justify-between sm:mt-32 mt-32 gap-5 '>
       <div className="hero_text_first flex  flex-col justify-between gap-5 ">
         <p className='font-extrabold text-5xl bg-clip-text text-inherit text '>
         <p
@@ -220,12 +220,12 @@ Digital Agency.</p>
           <div className="input">https://client.dash</div>
         </div>
          <div className="flex flex-row px-4 h-full w-full ">
-         <img className='shadow-xl rounded-lg w-[calc(100%-2px)] h-[calc(100%-4rem)] rounded-b-[20px] ' src={Galileo}/>
+         <img className='shadow-xl rounded-lg w-[calc(100%-2px)] h-[calc(100%-4rem)] rounded-b-[20px] ' src="http://res.cloudinary.com/dubr8odt7/image/upload/v1719758201/quantumComputers/lrk1xndpntatg0kmgjll.png"/>
           </div>
      </div>
      
       {/* <div className=' bg-slate-800 hero_phone h-5/6 w-72 relative bg-transparent z-20 ml-4 left-0'> */}
-      <img className='h-full md:h-[30rem] bottom-10 xl:h-[32rem] lg:h-[30rem]  lg:-top-10 shadow-xl  rounded-[24px] md:relative lg:absolute object-fill z-10 left-0' src={Galileomb}/>
+      <img className='h-full md:h-[30rem] bottom-10 xl:h-[32rem] lg:h-[30rem]  lg:-top-10 shadow-xl  rounded-[24px] md:relative lg:absolute object-fill z-10 left-0' src="http://res.cloudinary.com/dubr8odt7/image/upload/v1719758634/quantumComputers/v1xw8qyq3uprehfoccym.png"/>
       {/* <p className="absolute left-10">ddd</p> */}
       {/* </div>  */}
      </div>

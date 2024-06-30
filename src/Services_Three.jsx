@@ -11,7 +11,7 @@ export function Service_Three(){
        <div className="h-96  sm:h-screen w-full  flex items-end justify-center perspective-1px overflow-hidden " data-scroll>
        <div className="w-1/2 h-full p-16 perspective-1px hidden sm:hidden md:hidden lg:block xl:block 2xl:block" data-scroll>
        <Parallax speed={-2} className="self-start ">
-       <img className=" " src={design}  />
+       <img className=" " src="http://res.cloudinary.com/dubr8odt7/image/upload/v1719759573/quantumComputers/service/dfhikcnreapukd49kjma.jpg"  />
       </Parallax>
        </div>
        <img className=" absolute opacity-25 object-cover block sm:block md:block lg:hidden xl:hidden 2xl:hidden" src={design}  />
